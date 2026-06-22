@@ -1,0 +1,21 @@
+{
+  "accuracy": 0.975,
+  "roc_auc": 0.9962,
+  "cv_accuracy": 0.967,
+  "n_estimators": 200,
+  "n_train": 800,
+  "n_test": 200,
+  "feature_importances": {
+    "Credit_History": 0.7364559544805053,
+    "Log_TotalIncome": 0.0716858416302878,
+    "DebtIncomeRatio": 0.06127995508655386,
+    "Log_LoanAmount": 0.050366416555083796,
+    "Education": 0.02951154080973252,
+    "Property_Area": 0.010951572536708245,
+    "Dependents": 0.010122513652593954,
+    "Married": 0.008079157752053827,
+    "Loan_Amount_Term": 0.007820616989254013,
+    "Self_Employed": 0.007391940620972739,
+    "Gender": 0.006334489886254074
+  }
+}
